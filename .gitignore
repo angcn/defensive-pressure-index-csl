@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+*.html
+*.log
+raw_data/
+private_data/
+*.xlsx
+*.xls
+

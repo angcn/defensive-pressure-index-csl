@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or the Defensive Pressure Index framework, please cite the published article."
+title: "Defensive Pressure Index using tracking data in the Chinese Super League"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Jieying"
+  - family-names: "Wu"
+    given-names: "Fang"
+  - family-names: "Li"
+    given-names: "Ang"
+  - family-names: "Martinez-Santos"
+    given-names: "Raul"
+date-released: "2026-09-14"
+repository-code: "https://github.com/angcn/defensive-pressure-index-csl"
+preferred-citation:
+  type: article
+  title: "Development and initial validation of a defensive pressure index using tracking data in the Chinese Super League"
+  authors:
+    - family-names: "Li"
+      given-names: "Jieying"
+    - family-names: "Wu"
+      given-names: "Fang"
+    - family-names: "Li"
+      given-names: "Ang"
+    - family-names: "Martinez-Santos"
+      given-names: "Raul"
+  journal: "Frontiers in Sports and Active Living"
+  volume: 8
+  year: 2026
+  doi: "10.3389/fspor.2026.1833549"
+  url: "https://doi.org/10.3389/fspor.2026.1833549"
